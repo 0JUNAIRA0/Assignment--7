@@ -112,5 +112,3 @@ function Button() {
 
 
 ---
-
-**© 2025 React Learning Guide — All Rights Reserved.**
